@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle kumpulan-slot-4d-terbaru-2022",
+        "command": "kumpulan-slot-4d-terbaru-2022:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "kumpulan-slot-4d-terbaru-2022",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "kumpulan-slot-4d-terbaru-2022:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
