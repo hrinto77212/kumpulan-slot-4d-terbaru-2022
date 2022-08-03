@@ -1,0 +1,21 @@
+{
+  "name": "kumpulan-slot-4d-terbaru-2022",
+  "main": "./lib/kumpulan-slot-4d-terbaru-2022",
+  "version": "0.0.1",
+  "description": "Kumpulan Situs Slot 4D Terbaru Terbaik serta Terpercaya NO 1 Indonesia Terima Deposit Pulsa Tanpa Potongan.",
+  "keywords": [
+    "slot gacor",
+    "slot online",
+    "situs slot gacor",
+    "daftar slot gacor"
+  ],
+  "activationCommands": {
+    "atom-workspace": "kumpulan-slot-4d-terbaru-2022:toggle"
+  },
+  "repository": "https://github.com/slotgacor388/kumpulan-slot-4d-terbaru-2022",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
